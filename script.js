@@ -18,6 +18,14 @@ async function loadStatesData() {
         const firstHalf = allStates.slice(0, halfLength);
         const secondHalf = allStates.slice(halfLength);
 
+        // Save first half of states to local storage
+        firstHalf.forEach(function(state) {
+            const stateName = state.name;
+            const stateData = { ...state };
+            delete stateData.name;
+            localStorage.setItem(stateName, JSON.stringify(stateData));
+        });
+
         console.log('First half of states:', firstHalf);
         console.log('Second half of states:', secondHalf);
 
@@ -29,4 +37,3 @@ async function loadStatesData() {
 }
 
 loadStatesData();
-
