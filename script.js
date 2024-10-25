@@ -26,6 +26,22 @@ async function loadStatesData() {
             localStorage.setItem(stateName, JSON.stringify(stateData));
         });
 
+        // Save Second half of states to session storage
+        secondHalf.forEach(function(state) {
+            const stateName = state.capital.toLowerCase();
+            const stateData = { ...state };
+            delete stateData.capital;
+
+
+            // Convert all string values to lowercase
+            Object.keys(stateData).forEach(function(key) {
+                if (typeof stateData[key] === 'string') {
+                    stateData[key] = stateData[key].toLowerCase();
+                }
+            });
+            sessionStorage.setItem(stateName, JSON.stringify(stateData));
+        });
+
         console.log('First half of states:', firstHalf);
         console.log('Second half of states:', secondHalf);
 
