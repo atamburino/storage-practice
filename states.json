@@ -1,0 +1,504 @@
+{
+  "states": [
+    {
+      "name": "Alabama",
+      "capital": "Montgomery",
+      "stateBird": "Yellowhammer",
+      "stateFlower": "Camellia",
+      "foundingDate": "1819-12-14",
+      "population": 5024279,
+      "slogan": "Sweet Home Alabama",
+      "cities": ["Birmingham", "Huntsville", "Mobile"]
+    },
+    {
+      "name": "Alaska",
+      "capital": "Juneau",
+      "stateBird": "Willow Ptarmigan",
+      "stateFlower": "Forget-me-not",
+      "foundingDate": "1959-01-03",
+      "population": 733583,
+      "slogan": "North to the Future",
+      "cities": ["Anchorage", "Fairbanks", "Sitka"]
+    },
+    {
+      "name": "Arizona",
+      "capital": "Phoenix",
+      "stateBird": "Cactus Wren",
+      "stateFlower": "Saguaro Cactus Blossom",
+      "foundingDate": "1912-02-14",
+      "population": 7276316,
+      "slogan": "The Grand Canyon State",
+      "cities": ["Tucson", "Mesa", "Chandler"]
+    },
+    {
+      "name": "Arkansas",
+      "capital": "Little Rock",
+      "stateBird": "Mockingbird",
+      "stateFlower": "Apple Blossom",
+      "foundingDate": "1836-06-15",
+      "population": 3011524,
+      "slogan": "The Natural State",
+      "cities": ["Fayetteville", "Fort Smith", "Springdale"]
+    },
+    {
+      "name": "California",
+      "capital": "Sacramento",
+      "stateBird": "California Quail",
+      "stateFlower": "California Poppy",
+      "foundingDate": "1850-09-09",
+      "population": 39538223,
+      "slogan": "Eureka",
+      "cities": ["Los Angeles", "San Francisco", "San Diego"]
+    },
+    {
+      "name": "Colorado",
+      "capital": "Denver",
+      "stateBird": "Lark Bunting",
+      "stateFlower": "Rocky Mountain Columbine",
+      "foundingDate": "1876-08-01",
+      "population": 5773714,
+      "slogan": "Nothing without Providence",
+      "cities": ["Colorado Springs", "Aurora", "Fort Collins"]
+    },
+    {
+      "name": "Connecticut",
+      "capital": "Hartford",
+      "stateBird": "American Robin",
+      "stateFlower": "Mountain Laurel",
+      "foundingDate": "1788-01-09",
+      "population": 3605944,
+      "slogan": "Qui Transtulit Sustinet (He Who Transplanted Still Sustains)",
+      "cities": ["Bridgeport", "New Haven", "Stamford"]
+    },
+    {
+      "name": "Delaware",
+      "capital": "Dover",
+      "stateBird": "Delaware Blue Hen",
+      "stateFlower": "Peach Blossom",
+      "foundingDate": "1787-12-07",
+      "population": 989948,
+      "slogan": "Liberty and Independence",
+      "cities": ["Wilmington", "Newark", "Middletown"]
+    },
+    {
+      "name": "Florida",
+      "capital": "Tallahassee",
+      "stateBird": "Northern Mockingbird",
+      "stateFlower": "Orange Blossom",
+      "foundingDate": "1845-03-03",
+      "population": 21538187,
+      "slogan": "In God We Trust",
+      "cities": ["Miami", "Orlando", "Tampa"]
+    },
+    {
+      "name": "Georgia",
+      "capital": "Atlanta",
+      "stateBird": "Brown Thrasher",
+      "stateFlower": "Cherokee Rose",
+      "foundingDate": "1788-01-02",
+      "population": 10711908,
+      "slogan": "Wisdom, Justice, and Moderation",
+      "cities": ["Savannah", "Augusta", "Columbus"]
+    },
+    {
+      "name": "Hawaii",
+      "capital": "Honolulu",
+      "stateBird": "Nene",
+      "stateFlower": "Hibiscus",
+      "foundingDate": "1959-08-21",
+      "population": 1455271,
+      "slogan": "The Aloha State",
+      "cities": ["Pearl City", "Hilo", "Kailua"]
+    },
+    {
+      "name": "Idaho",
+      "capital": "Boise",
+      "stateBird": "Mountain Bluebird",
+      "stateFlower": "Syringa",
+      "foundingDate": "1890-07-03",
+      "population": 1839106,
+      "slogan": "Esto Perpetua (Let it be Perpetual)",
+      "cities": ["Meridian", "Nampa", "Idaho Falls"]
+    },
+    {
+      "name": "Illinois",
+      "capital": "Springfield",
+      "stateBird": "Northern Cardinal",
+      "stateFlower": "Violet",
+      "foundingDate": "1818-12-03",
+      "population": 12812508,
+      "slogan": "State Sovereignty, National Union",
+      "cities": ["Chicago", "Aurora", "Naperville"]
+    },
+    {
+      "name": "Indiana",
+      "capital": "Indianapolis",
+      "stateBird": "Northern Cardinal",
+      "stateFlower": "Peony",
+      "foundingDate": "1816-12-11",
+      "population": 6785528,
+      "slogan": "The Crossroads of America",
+      "cities": ["Fort Wayne", "Evansville", "South Bend"]
+    },
+    {
+      "name": "Iowa",
+      "capital": "Des Moines",
+      "stateBird": "Eastern Goldfinch",
+      "stateFlower": "Wild Prairie Rose",
+      "foundingDate": "1846-12-28",
+      "population": 3190369,
+      "slogan": "Our Liberties We Prize and Our Rights We Will Maintain",
+      "cities": ["Cedar Rapids", "Davenport", "Sioux City"]
+    },
+    {
+      "name": "Kansas",
+      "capital": "Topeka",
+      "stateBird": "Western Meadowlark",
+      "stateFlower": "Sunflower",
+      "foundingDate": "1861-01-29",
+      "population": 2937880,
+      "slogan": "Ad Astra Per Aspera (To the Stars Through Difficulties)",
+      "cities": ["Wichita", "Overland Park", "Kansas City"]
+    },
+    {
+      "name": "Kentucky",
+      "capital": "Frankfort",
+      "stateBird": "Northern Cardinal",
+      "stateFlower": "Goldenrod",
+      "foundingDate": "1792-06-01",
+      "population": 4505836,
+      "slogan": "United We Stand, Divided We Fall",
+      "cities": ["Louisville", "Lexington", "Bowling Green"]
+    },
+    {
+      "name": "Louisiana",
+      "capital": "Baton Rouge",
+      "stateBird": "Brown Pelican",
+      "stateFlower": "Magnolia",
+      "foundingDate": "1812-04-30",
+      "population": 4657757,
+      "slogan": "Union, Justice, and Confidence",
+      "cities": ["New Orleans", "Shreveport", "Lafayette"]
+    },
+    {
+      "name": "Maine",
+      "capital": "Augusta",
+      "stateBird": "Chickadee",
+      "stateFlower": "White Pine Cone and Tassel",
+      "foundingDate": "1820-03-15",
+      "population": 1362359,
+      "slogan": "Dirigo (I Lead)",
+      "cities": ["Portland", "Lewiston", "Bangor"]
+    },
+    {
+      "name": "Maryland",
+      "capital": "Annapolis",
+      "stateBird": "Baltimore Oriole",
+      "stateFlower": "Black-Eyed Susan",
+      "foundingDate": "1788-04-28",
+      "population": 6177224,
+      "slogan": "Fatti Maschii, Parole Femine (Manly Deeds, Womanly Words)",
+      "cities": ["Baltimore", "Frederick", "Rockville"]
+    },
+    {
+      "name": "Massachusetts",
+      "capital": "Boston",
+      "stateBird": "Black-Capped Chickadee",
+      "stateFlower": "Mayflower",
+      "foundingDate": "1788-02-06",
+      "population": 7029917,
+      "slogan": "Ense Petit Placidam Sub Libertate Quietem (By the Sword We Seek Peace, But Peace Only Under Liberty)",
+      "cities": ["Worcester", "Springfield", "Cambridge"]
+    },
+    {
+      "name": "Michigan",
+      "capital": "Lansing",
+      "stateBird": "American Robin",
+      "stateFlower": "Apple Blossom",
+      "foundingDate": "1837-01-26",
+      "population": 10077331,
+      "slogan": "If You Seek a Pleasant Peninsula, Look About You",
+      "cities": ["Detroit", "Grand Rapids", "Ann Arbor"]
+    },
+    {
+      "name": "Minnesota",
+      "capital": "Saint Paul",
+      "stateBird": "Common Loon",
+      "stateFlower": "Pink and White Lady's Slipper",
+      "foundingDate": "1858-05-11",
+      "population": 5706494,
+      "slogan": "L'Étoile du Nord (The Star of the North)",
+      "cities": ["Minneapolis", "Rochester", "Duluth"]
+    },
+    {
+      "name": "Mississippi",
+      "capital": "Jackson",
+      "stateBird": "Northern Mockingbird",
+      "stateFlower": "Magnolia",
+      "foundingDate": "1817-12-10",
+      "population": 2961279,
+      "slogan": "By Valor and Arms",
+      "cities": ["Gulfport", "Southaven", "Biloxi"]
+    },
+    {
+      "name": "Missouri",
+      "capital": "Jefferson City",
+      "stateBird": "Eastern Bluebird",
+      "stateFlower": "Hawthorn",
+      "foundingDate": "1821-08-10",
+      "population": 6154913,
+      "slogan": "Salus Populi Suprema Lex Esto (The Welfare of the People Shall Be the Supreme Law)",
+      "cities": ["Kansas City", "St. Louis", "Springfield"]
+    },
+    {
+      "name": "Montana",
+      "capital": "Helena",
+      "stateBird": "Western Meadowlark",
+      "stateFlower": "Bitterroot",
+      "foundingDate": "1889-11-08",
+      "population": 1084225,
+      "slogan": "Oro y Plata (Gold and Silver)",
+      "cities": ["Billings", "Missoula", "Great Falls"]
+    },
+    {
+      "name": "Nebraska",
+      "capital": "Lincoln",
+      "stateBird": "Western Meadowlark",
+      "stateFlower": "Goldenrod",
+      "foundingDate": "1867-03-01",
+      "population": 1961504,
+      "slogan": "Equality Before the Law",
+      "cities": ["Omaha", "Bellevue", "Grand Island"]
+    },
+    {
+      "name": "Nevada",
+      "capital": "Carson City",
+      "stateBird": "Mountain Bluebird",
+      "stateFlower": "Sagebrush",
+      "foundingDate": "1864-10-31",
+      "population": 3104614,
+      "slogan": "All for Our Country",
+      "cities": ["Las Vegas", "Henderson", "Reno"]
+    },
+    {
+      "name": "New Hampshire",
+      "capital": "Concord",
+      "stateBird": "Purple Finch",
+      "stateFlower": "Purple Lilac",
+      "foundingDate": "1788-06-21",
+      "population": 1377529,
+      "slogan": "Live Free or Die",
+      "cities": ["Manchester", "Nashua", "Derry"]
+    },
+    {
+      "name": "New Jersey",
+      "capital": "Trenton",
+      "stateBird": "Eastern Goldfinch",
+      "stateFlower": "Violet",
+      "foundingDate": "1787-12-18",
+      "population": 9288994,
+      "slogan": "Liberty and Prosperity",
+      "cities": ["Newark", "Jersey City", "Paterson"]
+    },
+    {
+      "name": "New Mexico",
+      "capital": "Santa Fe",
+      "stateBird": "Greater Roadrunner",
+      "stateFlower": "Yucca Flower",
+      "foundingDate": "1912-01-06",
+      "population": 2117522,
+      "slogan": "Crescit Eundo (It Grows as it Goes)",
+      "cities": ["Albuquerque", "Las Cruces", "Rio Rancho"]
+    },
+    {
+      "name": "New York",
+      "capital": "Albany",
+      "stateBird": "Eastern Bluebird",
+      "stateFlower": "Rose",
+      "foundingDate": "1788-07-26",
+      "population": 20201249,
+      "slogan": "Excelsior (Ever Upward)",
+      "cities": ["New York City", "Buffalo", "Rochester"]
+    },
+    {
+      "name": "North Carolina",
+      "capital": "Raleigh",
+      "stateBird": "Northern Cardinal",
+      "stateFlower": "Dogwood",
+      "foundingDate": "1789-11-21",
+      "population": 10439388,
+      "slogan": "Esse Quam Videri (To Be Rather Than to Seem)",
+      "cities": ["Charlotte", "Greensboro", "Durham"]
+    },
+    {
+      "name": "North Dakota",
+      "capital": "Bismarck",
+      "stateBird": "Western Meadowlark",
+      "stateFlower": "Wild Prairie Rose",
+      "foundingDate": "1889-11-02",
+      "population": 779094,
+      "slogan": "Liberty and Union, Now and Forever, One and Inseparable",
+      "cities": ["Fargo", "Grand Forks", "Minot"]
+    },
+    {
+      "name": "Ohio",
+      "capital": "Columbus",
+      "stateBird": "Northern Cardinal",
+      "stateFlower": "Scarlet Carnation",
+      "foundingDate": "1803-03-01",
+      "population": 11799448,
+      "slogan": "With God, All Things Are Possible",
+      "cities": ["Cleveland", "Cincinnati", "Toledo"]
+    },
+    {
+      "name": "Oklahoma",
+      "capital": "Oklahoma City",
+      "stateBird": "Scissor-tailed Flycatcher",
+      "stateFlower": "Mistletoe",
+      "foundingDate": "1907-11-16",
+      "population": 3959353,
+      "slogan": "Labor Omnia Vincit (Labor Conquers All Things)",
+      "cities": ["Tulsa", "Norman", "Broken Arrow"]
+    },
+    {
+      "name": "Oregon",
+      "capital": "Salem",
+      "stateBird": "Western Meadowlark",
+      "stateFlower": "Oregon Grape",
+      "foundingDate": "1859-02-14",
+      "population": 4237256,
+      "slogan": "Alis Volat Propriis (She Flies with Her Own Wings)",
+      "cities": ["Portland", "Eugene", "Gresham"]
+    },
+    {
+      "name": "Pennsylvania",
+      "capital": "Harrisburg",
+      "stateBird": "Ruffed Grouse",
+      "stateFlower": "Mountain Laurel",
+      "foundingDate": "1787-12-12",
+      "population": 13002700,
+      "slogan": "Virtue, Liberty, and Independence",
+      "cities": ["Philadelphia", "Pittsburgh", "Allentown"]
+    },
+    {
+      "name": "Rhode Island",
+      "capital": "Providence",
+      "stateBird": "Rhode Island Red",
+      "stateFlower": "Violet",
+      "foundingDate": "1790-05-29",
+      "population": 1097379,
+      "slogan": "Hope",
+      "cities": ["Cranston", "Warwick", "Pawtucket"]
+    },
+    {
+      "name": "South Carolina",
+      "capital": "Columbia",
+      "stateBird": "Carolina Wren",
+      "stateFlower": "Yellow Jessamine",
+      "foundingDate": "1788-05-23",
+      "population": 5118425,
+      "slogan": "Dum Spiro Spero (While I Breathe, I Hope)",
+      "cities": ["Charleston", "North Charleston", "Mount Pleasant"]
+    },
+    {
+      "name": "South Dakota",
+      "capital": "Pierre",
+      "stateBird": "Ring-necked Pheasant",
+      "stateFlower": "Pasque Flower",
+      "foundingDate": "1889-11-02",
+      "population": 886667,
+      "slogan": "Under God, the People Rule",
+      "cities": ["Sioux Falls", "Rapid City", "Aberdeen"]
+    },
+    {
+      "name": "Tennessee",
+      "capital": "Nashville",
+      "stateBird": "Northern Mockingbird",
+      "stateFlower": "Iris",
+      "foundingDate": "1796-06-01",
+      "population": 6910840,
+      "slogan": "Agriculture and Commerce",
+      "cities": ["Memphis", "Knoxville", "Chattanooga"]
+    },
+    {
+      "name": "Texas",
+      "capital": "Austin",
+      "stateBird": "Northern Mockingbird",
+      "stateFlower": "Bluebonnet",
+      "foundingDate": "1845-12-29",
+      "population": 29145505,
+      "slogan": "Friendship",
+      "cities": ["Houston", "Dallas", "San Antonio"]
+    },
+    {
+      "name": "Utah",
+      "capital": "Salt Lake City",
+      "stateBird": "California Gull",
+      "stateFlower": "Sego Lily",
+      "foundingDate": "1896-01-04",
+      "population": 3271616,
+      "slogan": "Industry",
+      "cities": ["Provo", "West Valley City", "Orem"]
+    },
+    {
+      "name": "Vermont",
+      "capital": "Montpelier",
+      "stateBird": "Hermit Thrush",
+      "stateFlower": "Red Clover",
+      "foundingDate": "1791-03-04",
+      "population": 643077,
+      "slogan": "Freedom and Unity",
+      "cities": ["Burlington", "South Burlington", "Rutland"]
+    },
+    {
+      "name": "Virginia",
+      "capital": "Richmond",
+      "stateBird": "Northern Cardinal",
+      "stateFlower": "Dogwood",
+      "foundingDate": "1788-06-25",
+      "population": 8631393,
+      "slogan": "Sic Semper Tyrannis (Thus Always to Tyrants)",
+      "cities": ["Virginia Beach", "Norfolk", "Chesapeake"]
+    },
+    {
+      "name": "Washington",
+      "capital": "Olympia",
+      "stateBird": "Willow Goldfinch",
+      "stateFlower": "Rhododendron",
+      "foundingDate": "1889-11-11",
+      "population": 7693612,
+      "slogan": "Alki (By and By)",
+      "cities": ["Seattle", "Spokane", "Tacoma"]
+    },
+    {
+      "name": "West Virginia",
+      "capital": "Charleston",
+      "stateBird": "Northern Cardinal",
+      "stateFlower": "Rhododendron",
+      "foundingDate": "1863-06-20",
+      "population": 1793716,
+      "slogan": "Montani Semper Liberi (Mountaineers Are Always Free)",
+      "cities": ["Huntington", "Morgantown", "Parkersburg"]
+    },
+    {
+      "name": "Wisconsin",
+      "capital": "Madison",
+      "stateBird": "American Robin",
+      "stateFlower": "Wood Violet",
+      "foundingDate": "1848-05-29",
+      "population": 5893718,
+      "slogan": "Forward",
+      "cities": ["Milwaukee", "Green Bay", "Kenosha"]
+    },
+    {
+      "name": "Wyoming",
+      "capital": "Cheyenne",
+      "stateBird": "Western Meadowlark",
+      "stateFlower": "Indian Paintbrush",
+      "foundingDate": "1890-07-10",
+      "population": 576851,
+      "slogan": "Equal Rights",
+      "cities": ["Casper", "Laramie", "Gillette"]
+    }
+  ]
+}
